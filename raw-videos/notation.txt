@@ -12,4 +12,14 @@
 61-131 FlavourPreparation
 132-209 cooking
 210-219
+小炒猪肝
+1-4 introduction
+5-89 preparation
+90-154 cooking
+155-167
 
+大白菜
+1-4 introduction
+5-74 preparation
+75-120 cooking
+121-131

@@ -1,7 +1,7 @@
 import cv2
 import os
 
-cam = cv2.VideoCapture("F:\\JI\\RESEARCH\\DATABASE\\wanggang\\raw-videos\\xiaochaozhugan.mp4")
+cam = cv2.VideoCapture("F:\\JI\\RESEARCH\\DATABASE\\wanggang\\ChineseFoodForGPT\\raw-videos\\xiaochaozhugan.mp4")
 
 try:
     if not os.path.exists('data'):
